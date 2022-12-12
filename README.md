@@ -2,7 +2,7 @@
 teste curso html 1
 <!DOCTYPE html>
 <head>
-    <title> teste</title>
+    <title>teste</title>
     <meta charset="utf-8">
 </head>
 <body>
